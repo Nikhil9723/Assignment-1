@@ -1,0 +1,1 @@
+To show behaviour of git remove.
